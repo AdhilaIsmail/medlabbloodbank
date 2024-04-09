@@ -134,7 +134,7 @@ WSGI_APPLICATION = 'medlabbloodbank.wsgi.application'
 # }
 
 DATABASES = {
-    'default': dj_database_url.parse("postgres://medlabbloodbank_8ori_user:qvVq6qapNaDSWdx2JmirL1wGLXlq08wa@dpg-coa31ngcmk4c73e92910-a.singapore-postgres.render.com/medlabbloodbank_8ori")
+    'default': dj_database_url.parse("postgres://medlabbloodbank_28bp_user:qG6bwcRMeCAVDgfwAgPE0D4bRT6C0Osb@dpg-coacbnv79t8c73efocq0-a.singapore-postgres.render.com/medlabbloodbank_28bp")
 }
 
 # postgres://medlabbloodbank_8ori_user:qvVq6qapNaDSWdx2JmirL1wGLXlq08wa@dpg-coa31ngcmk4c73e92910-a.singapore-postgres.render.com/medlabbloodbank_8ori
